@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/minda/Minda/Avoid_ws/src/ddpg/config/test4"
+all_model_checkpoint_paths: "/home/minda/Minda/Avoid_ws/src/ddpg/config/test4"
